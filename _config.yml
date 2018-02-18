@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  client_id: 56a09e3795aa73fee15b   #生成的clientID
-  client_secret: 7a7fd7c84e064f609b963db028f35d64cbafa3cd  #同上
+  client_id: 1f3b12dddd08b1131d4e   #生成的clientID
+  client_secret: 35f5a35177a6cfe8768d1f44ad11435ba5bc66af  #同上
   repo: zhangyuan1997.github.io    #仓库名称
   owner: zhangyuan1997    #github用户名
   admin: zhangyuan1997

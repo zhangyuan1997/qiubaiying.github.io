@@ -82,7 +82,7 @@ kramdown:
 		repo: 'zhangyuan1997.github.io',
 		owner: 'zhangyuan1997',
 		admin: ['zhangyuan1997'],
-		id: 'location.href',
+		id: 'window.location.pathname',
     
     });
     gitalk.render('gitalk-container');

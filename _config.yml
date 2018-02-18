@@ -60,10 +60,10 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-gitalk:
+comment:
   enable: true    #是否开启Gitalk评论
-  clientID: 56a09e3795aa73fee15b   #生成的clientID
-  clientSecret: 7a7fd7c84e064f609b963db028f35d64cbafa3cd  #同上
+  client_id: 56a09e3795aa73fee15b   #生成的clientID
+  client_secret: 7a7fd7c84e064f609b963db028f35d64cbafa3cd  #同上
   repo: https://github.com/zhangyuan1997/zhangyuan1997.github.io/issues    #仓库名称
   owner: zhangyuan1997    #github用户名
   admin: zhangyuan1997

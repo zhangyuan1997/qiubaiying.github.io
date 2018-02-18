@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   client_id: 1f3b12dddd08b1131d4e   #生成的clientID
   client_secret: 35f5a35177a6cfe8768d1f44ad11435ba5bc66af  #同上
-  repo: zhangyuan1997.github.io/issues    #仓库名称
+  repo: https://github.com/zhangyuan1997/zhangyuan1997.github.io/issues/5    #仓库名称
   owner: zhangyuan1997    #github用户名
   admin: zhangyuan1997
   distractionFreeMode: true #是否启用类似FB的阴影遮罩

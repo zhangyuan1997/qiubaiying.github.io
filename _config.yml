@@ -67,6 +67,7 @@ gitalk:
   repo: https://github.com/zhangyuan1997/zhangyuan1997.github.io    #仓库名称
   owner: zhangyuan1997    #github用户名
   admin: zhangyuan1997
+  id: window.location.pathname
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # 统计

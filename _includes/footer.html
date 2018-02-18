@@ -15,9 +15,6 @@
                     </li>
                     {% endif %}
                     <!-- add jianshu add target = "_blank" to <a> by BY -->
-                    <hr>
-                    <h5>I'm in</h5>
-                    <ul class="list-inline">
                     {% if site.jianshu_username %}
                             <li>
                                 <a target="_blank" href="https://www.jianshu.com/u/{{ site.jianshu_username }}">
@@ -40,6 +37,10 @@
                     {% endif %}
 
                     <!-- add Weibo, Zhihu by Hux, add target = "_blank" to <a> by Hux -->
+                    <hr>
+                    <h5>I'm in</h5>
+                    <ul class="list-inline">    
+                    </ul>
                     {% if site.zhihu_username %}
                     <li>
                         <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">

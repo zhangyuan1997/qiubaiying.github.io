@@ -76,13 +76,13 @@ kramdown:
 <div id="gitalk-container"></div>     <script type="text/javascript">
     var gitalk = new Gitalk({
 
-    		enable: true
-		clientID: '56a09e3795aa73fee15b',
-		clientSecret: '7a7fd7c84e064f609b963db028f35d64cbafa3cd',
-		repo: 'zhangyuan1997.github.io',
-		owner: 'zhangyuan1997',
-		admin: ['zhangyuan1997'],
-		id: 'window.location.pathname',
+enable: true
+clientID: 56a09e3795aa73fee15b,
+clientSecret: 7a7fd7c84e064f609b963db028f35d64cbafa3cd,
+repo: zhangyuan1997.github.io,
+owner: zhangyuan1997,
+admin: zhangyuan1997,
+id: window.location.pathname,
     
     });
     gitalk.render('gitalk-container');

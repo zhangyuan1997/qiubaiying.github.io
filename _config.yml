@@ -104,10 +104,10 @@ friends: [
         title: "Zhang's Blog",
         href: "https://zhangyuan1997.github.io"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Github",
+        href: "https://github.com"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Deep Learning",
+        href: "https://deeplearning.ai"
     }
 ]

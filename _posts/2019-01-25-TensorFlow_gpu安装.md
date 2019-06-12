@@ -7,9 +7,9 @@ author:     Xiao Zhang
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - TensorFlow_GPU
-	- CUDA
-	- CUDNN
+    - TensorFlow_gpu
+    - CUDA
+    - CUDNN
 ---
 
 转载自[https://blog.csdn.net/Fowee/article/details/84983245](https://blog.csdn.net/Fowee/article/details/84983245)

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Win10下的TensorFlow_gpu-1.12.0安装
+title:      TensorFlow_gpu-1.12.0安装
 subtitle:   Install
 date:       2019-01-25
 author:     Xiao Zhang

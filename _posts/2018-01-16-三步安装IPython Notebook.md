@@ -2,7 +2,7 @@
 layout:     post
 title:      三步安装IPython Notebook
 subtitle:   Easy Method
-date:       2017-12-16
+date:       2018-01-16
 author:     Xiao Zhang
 header-img: img/post-bg-debug.png
 catalog: true
